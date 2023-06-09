@@ -3,7 +3,8 @@
     border-radius: 30px;
     padding-bottom: 30px;
     width: 280px;
-    height: 280px;
+    display: flex;
+    flex-direction: column;
 }
 
 .listing-heading {
